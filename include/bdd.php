@@ -1,10 +1,12 @@
 ﻿<?php
 // Connexion base de donnée
-if (!mysql_connect("localhost", "umad", "utch36fthk")) {
+error_reporting(E_ALL ^ E_DEPRECATED);
+
+if (!mysql_connect("localhost", "root", "root")) {
     exit();
 }
 
-if (!mysql_select_db("umad")) {
+if (!mysql_select_db("test")) {
     exit();
 }
 ?>
