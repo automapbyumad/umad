@@ -133,7 +133,7 @@ $miseHTML['header'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
     <title>AutoMap Website</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" media="screen" type="text/css" title="design" href="css/design.css" />
-	 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	 <script type="text/javascript" src="lib/jquery.min.js"></script>
 	 <script type="text/javascript" src="lib/fancybox/jquery.easing-1.3.pack.js"></script>
 	 <script type="text/javascript" src="lib/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
 	 <script type="text/javascript" src="lib/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
